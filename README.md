@@ -20,6 +20,12 @@
   <img width="12" />
  </div>
 
+<h2 align="center"> OS i use:</h2>
+<div align="left"> NetBSD</div>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/5/5c/NetBSD.svg/1200px-NetBSD.svg.png" height=52" alt="NetBSD Logo"/>
+  <img width=12 />
+</div>
 
 <div align="left">
   <img src="https://freshports.org/images/notbug.gif" height="52" alt="Spinning text 'Krajina'" />
@@ -27,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diabloblacno&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diabloblanko&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 <h2 align="center"> Dogodine u Kninu!</h2>
 <div align="center">
