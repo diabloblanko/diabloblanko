@@ -21,9 +21,9 @@
  </div>
 
 <h2 align="center"> OS i use:</h2>
-<div align="left"> NetBSD</div>
+<div align="left"> OpenBSD</div>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/5/5c/NetBSD.svg/1200px-NetBSD.svg.png" height=52" alt="NetBSD Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/929183?s=280&v=4" height=52" alt="OpenBSD Logo Logo"/>
   <img width=12 />
 </div>
 
