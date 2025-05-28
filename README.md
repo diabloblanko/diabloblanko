@@ -21,9 +21,9 @@
  </div>
 
 <h2 align="center"> OS i use:</h2>
-<div align="left"> OpenBSD</div>
+<div align="left"> Void Linux</div>
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/929183?s=280&v=4" height=52" alt="OpenBSD Logo Logo"/>
+  <img src="https://voidlinux.org/assets/img/void_bg.png" height=52" alt="Void Linux logo"/>
   <img width=12 />
 </div>
 
