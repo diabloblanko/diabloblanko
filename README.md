@@ -32,9 +32,7 @@
   <img width="12" /> 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diabloblanko&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
-</div>
+
 <h2 align="center"> Dogodine u Kninu!</h2>
 <div align="center">
       <img src="https://web.archive.org/web/20120416153517if_/http://www.vladarsk.com/user/cimage/kra.gif" height="56" alt="Krajina" />
