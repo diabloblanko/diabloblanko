@@ -41,6 +41,6 @@
 
 <h2 align="center"> Languages i use:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diabloblanko&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabloblanko&layout=compact&theme=nord&hide_title=true&card_width=150" height="150" alt="languages graph"  />
 </div>
 
