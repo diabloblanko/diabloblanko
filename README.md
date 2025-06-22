@@ -43,4 +43,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabloblanko&layout=compact&theme=nord&hide_title=true&card_width=150" height="150" alt="languages graph"  />
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
