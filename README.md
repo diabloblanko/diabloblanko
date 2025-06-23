@@ -44,5 +44,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabloblanko&layout=compact&theme=nord&hide_title=true&card_width=150" height="150" alt="languages graph"  />
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   2 mins          ██████████████████████▓░░   90.54 %
+Other      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+```
+
 <!--END_SECTION:waka-->
 
