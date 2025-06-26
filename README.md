@@ -21,12 +21,14 @@
  </div>
 
 <h2 align="center"> OS i use:</h2>
-<div align="left"> Arch Linux</div>
+<div align="left"> Void Linux+FreeBSD</div>
 <div align="center">
-  <img src="https://img.icons8.com/color/512/arch-linux.png" height=52" alt="Arch Linux logo"/>
+  <img src="https://voidlinux.org/assets/img/void_bg.png" height="52" alt="Void Linux logo"/>
   <img width=12 />
 </div>
-
+<div align="right">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3Ix2WbG4dAhXDhzZQ9uczNBUGgNpHb72Qw&s" height="52" alt="FreeBSD logo"/>
+  <img width="12" />
 <div align="left">
   <img src="https://freshports.org/images/notbug.gif" height="52" alt="Spinning text 'Krajina'" />
   <img width="12" /> 
@@ -39,7 +41,7 @@
       <img width="16" />
 </div>
 
-<h2 align="center"> Languages i use:
+<h2 align="center"> My repos language stat:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabloblanko&layout=compact&theme=nord&hide_title=true&card_width=150" height="150" alt="languages graph"  />
 </div>
