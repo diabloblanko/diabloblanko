@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="52" alt="c " />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="52" alt="haskell" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0lihVV2JShqPOh-8DMLWb-XPMfeP3pAyQQ&s" height="52" alt="Dlang"/>
   <img width="12" />
   </div>
 
