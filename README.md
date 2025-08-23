@@ -13,6 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="52" alt="haskell" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0lihVV2JShqPOh-8DMLWb-XPMfeP3pAyQQ&s" height="52" alt="Dlang"/>
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Camelia.svg" height="52" alt="Raku"/>
+  <img width="12" />
   </div>
 
 <h2 align="center"> Languages that must be destroyed:</h2>
