@@ -12,9 +12,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="52" alt="haskell" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0lihVV2JShqPOh-8DMLWb-XPMfeP3pAyQQ&s" height="52" alt="Dlang"/>
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Camelia.svg" height="52" alt="Raku"/>
-  <img width="12" />
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Camelia.svg" height="52" alt="Raku"/> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" height="52" alt="Racket"/>
   </div>
 
 <h2 align="center"> Languages that must be destroyed:</h2>
@@ -24,14 +23,11 @@
  </div>
 
 <h2 align="center"> OS i use:</h2>
-<div align="left"> Void Linux+FreeBSD</div>
+<div align="left"> Void Linux</div>
 <div align="center">
-  <img src="https://voidlinux.org/assets/img/void_bg.png" height="52" alt="Void Linux logo"/>
+  <img src="https://voidlinux.org/assets/img/void_bg.png" height="90" alt="Void Linux logo"/>
   <img width=12 />
 </div>
-<div align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3Ix2WbG4dAhXDhzZQ9uczNBUGgNpHb72Qw&s" height="52" alt="FreeBSD logo"/>
-  <img width="12" />
 <div align="left">
   <img src="https://freshports.org/images/notbug.gif" height="52" alt="Spinning text 'Krajina'" />
   <img width="12" /> 
