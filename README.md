@@ -1,3 +1,5 @@
+# Im moving to codeberg.org. New versions of my software will be published to codeberg, not github.
+## <a href="https://codeberg.org/diabloblanco">My account on CodeBerg.</a>
 # you reached diabloblanko
 ### // formerly diabloblacno
 
